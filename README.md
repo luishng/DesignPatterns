@@ -2,7 +2,7 @@
 
 ## Instalação:
 
-- Clone normalmente o projeto.
+- Clone o projeto.
 - Após isso, abra o eclipse.
 - Vá em File -> New -> Java Project.
 - Desmarque a opção "Use default location".
