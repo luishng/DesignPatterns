@@ -11,7 +11,7 @@ public class MarioPequeno implements MarioState{
 	@Override
 	public MarioState pegarFlor() {
 		System.out.println("Mario recebeu a florzona! FOGO!");
-		return this;
+		return new MarioFlor();
 	}
 
 	@Override
