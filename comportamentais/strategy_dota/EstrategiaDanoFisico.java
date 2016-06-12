@@ -1,4 +1,4 @@
-package state_dota;
+package strategy_dota;
 
 public class EstrategiaDanoFisico implements Dano {
 
